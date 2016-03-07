@@ -1,6 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-# Getting and cleaning Data-Course Project
 
 This is a project assignment from the Coursera Getting and cleaning data course. 
 The purposs of this project is to demostrate the ability to collect, work with and clean a data set.
